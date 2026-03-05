@@ -135,41 +135,6 @@ The following regression models were implemented:
 4. K-Nearest Neighbors (KNN)
 5. XGBoost Regressor
 
-Additionally:
-
-### Artificial Neural Network (ANN)
-
-Built using **TensorFlow / Keras**
-
-Architecture:
-
-```
-Input Layer
-Dense Layer (128 neurons)
-Dense Layer (64 neurons)
-Output Layer
-```
-
-Activation Function:
-
-```
-ReLU
-```
-
-Optimizer:
-
-```
-Adam
-```
-
-Loss Function:
-
-```
-Mean Squared Error
-```
-
----
-
 # 📊 Model Evaluation
 
 Models were evaluated using:
